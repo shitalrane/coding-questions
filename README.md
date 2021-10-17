@@ -22,3 +22,4 @@ How do you check if a given string is a palindrome?
 
 
 Please run coding_question.html and check console for the output.
+
